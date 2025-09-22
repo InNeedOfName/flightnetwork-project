@@ -1,0 +1,41 @@
+origin_code,destination_code,airline,cost_in_euroes
+LHR,MUC,British Airways,120
+LHR,BGY,Ryanair,80
+LHR,CDG,Air France,110
+LHR,MAD,Iberia,130
+LHR,AMS,KLM,100
+MUC,BGY,Lufthansa,90
+MUC,CDG,Air France,95
+MUC,MAD,Lufthansa,140
+MUC,AMS,KLM,105
+BGY,CDG,EasyJet,70
+BGY,MAD,Ryanair,85
+BGY,AMS,EasyJet,75
+CDG,MAD,Air France,115
+CDG,AMS,KLM,95
+MAD,AMS,Iberia,120
+VIE,ZRH,Swiss,80
+VIE,CPH,Austrian,110
+ZRH,CPH,SAS,100
+ZRH,BRU,Swiss,90
+CPH,BRU,SAS,95
+LHR,VIE,British Airways,150
+LHR,ZRH,British Airways,140
+LHR,CPH,SAS,135
+LHR,BRU,Brussels Airlines,125
+MUC,VIE,Lufthansa,100
+MUC,ZRH,Lufthansa,110
+MUC,CPH,SAS,120
+MUC,BRU,Lufthansa,115
+BGY,VIE,Ryanair,95
+BGY,ZRH,EasyJet,105
+BGY,CPH,Ryanair,115
+BGY,BRU,EasyJet,110
+CDG,VIE,Air France,130
+CDG,ZRH,Swiss,120
+CDG,CPH,Air France,125
+CDG,BRU,Brussels Airlines,115
+MAD,VIE,Iberia,140
+MAD,ZRH,Iberia,135
+MAD,CPH,Iberia,145
+MAD,BRU,Iberia,130
