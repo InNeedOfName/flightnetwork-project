@@ -11,17 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-.src/test
-
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+/src/test
 
 ### NetBeans ###
 /nbproject/private/
