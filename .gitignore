@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-/src/test
+**/test/
 
 ### NetBeans ###
 /nbproject/private/
